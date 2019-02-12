@@ -1,29 +1,16 @@
-# delta-defense-test
+# Delta Defense Test
 
-## Project setup
+To start, clone the repo and then run the following commands:
+
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
+You should see an address where you can view the application in your browser.
+
+If you'd like to build a production version of the application run
+
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
